@@ -10,4 +10,6 @@ Features:
 - Unified color coding (red/green) across text, arrows, and trend lines to indicate trends
 - 1-month, 6-month, and 1-year trend lines for instant visual comparison
 
+Screenshot of html:
+
 ![Big Tech Stock Table Reproduction](https://github.com/zlZayn/viz/blob/main/W6/My%20Reproduction.png)
